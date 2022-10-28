@@ -6,8 +6,6 @@ body {
 	color: white;
 	
 	background-image: linear-gradient(to right top, #bc43de, #ab48e0, #994ce2, #8550e2, #7053e2, #6159e0, #525fde, #4363da, #406bd3, #4371cc, #4a77c3, #547cb9);
-	background-size: cover;
-	background-repeat: no-repeat;
 
 	width: 100vw;
 	height: 100vh;
