@@ -86,8 +86,15 @@ footer {
 
 @media screen and (max-width: 1366px){
 
+	p{
+		font-size: 15px;
+		font-weight: normal;
+		margin: 10px;
+		margin-bottom: 15px;
+	}
+
 	.img-icon{
-		margin-left: 28px;
+		margin-left: 33px;
 		width: 130px;
 		padding: 5px 15px 5px 15px;
 	}
