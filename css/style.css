@@ -84,17 +84,16 @@ footer {
 	padding: 60px 0px 20px 0px;
 }
 
-@media screen and (max-width: 760px){
+@media screen and (max-width: 1366px){
 
-	body{
-		background-repeat: no-repeat;
-		width: 100vw;
-		height: 100vh;
+	.img-icon{
+		margin-left: 28px;
+		width: 130px;
+		padding: 5px 15px 5px 15px;
 	}
 
 	.link{
-		font-size: 15px;
-		width: 200px;
+		width: 250px;
 		height: 50px;
 	}
 
@@ -106,11 +105,28 @@ footer {
 	
 }
 
-
 @media screen and (max-width: 480px) {	
+
+	.img-icon{
+		margin-left: 45px;
+		width: 110px;
+		padding: 5px 15px 5px 15px;
+	}
+	
+	link{
+		width: 250px;
+		height: 50px;
+	}
+
 	h1 {
 		font-size: 25px;
 		margin-bottom: 3px;
 		font-weight: 700;
+	}
+
+	footer {
+		font-size: 18px;
+		font-weight: 300;
+		padding: 60px 0px 18px 0px;
 	}
 }
